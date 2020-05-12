@@ -1,0 +1,12 @@
+ ____                           ____ 
+||p ||                         || ||
+||__|| PAUSE                   ||__||		
+|/__\|                         |/__\|
+ ____________________      ____ ____ ____ 
+||     spacebar     ||    || ||| |||  ||
+||__________________||    ||__|||__|||__|| 
+|/__________________\|    |/__\|/__\|/__\|
+       SHOOT              CONTROL SPACESHIP
+
+ = HP increase          ** if you hit by monster    **      
+ = GUN increase         ** HP and GUN will decrease **  
